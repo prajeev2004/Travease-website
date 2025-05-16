@@ -1,21 +1,36 @@
-# Travease
+# 🌍 Travease – Travel Website
 
-Travease is a simple and responsive travel-themed website created using:
+**Travease** is a responsive and visually engaging travel-themed website built using **HTML5**, **CSS3**, and **JavaScript**. It is designed to showcase beautiful destinations and travel packages, providing users with a smooth and appealing browsing experience.
 
-- HTML5
-- CSS3
-- JavaScript
+This project is ideal for demonstrating front-end skills and can serve as a portfolio project for web development enthusiasts.
 
-## How to View
+---
 
-1. Download the ZIP or clone the repository.
-2. Open `index.html` in any browser.
+## ✨ Features
 
-## Folder Structure
+- 🌐 Fully responsive layout for mobile, tablet, and desktop
+- 🎨 Clean and modern UI with vibrant visuals
+- 🖱️ Smooth scrolling and basic interactive elements
+- 🖼️ Gallery of travel destinations using custom images
+- 💡 Easy-to-read and well-structured code
 
-Travease/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── README.md
+---
+
+## 📸 Preview
+
+> You can see a live demo (after hosting on GitHub Pages):
+>  
+> [🌐 Live Site](https://your-username.github.io/Travease) *(update this after deploying)*
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the website
+- **CSS3** – Styling and layout (Flexbox, Grid, Media Queries)
+- **JavaScript** – Basic interactivity
+
+---
+
+## 📁 Folder Structure
+
