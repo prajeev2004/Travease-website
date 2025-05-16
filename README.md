@@ -20,7 +20,7 @@ This project is ideal for demonstrating front-end skills and can serve as a port
 
 > You can see a live demo (after hosting on GitHub Pages):
 >  
-> [🌐 Live Site](https://your-username.github.io/Travease) *(update this after deploying)*
+> [🌐 Live Site]([https://prajeev2004.github.io/Travease-website/])
 
 ---
 
