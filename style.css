@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 :root {
     --primary-color: #2E4A7D;
     --primary-light: #4C6AA3;
