@@ -282,7 +282,8 @@
           
           <div class="contact-form" id="contact" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
             <h3 class="contact-title">Contact Us</h3>
-            <form class="contact-form-elements">
+            <form class="contact-form-elements" action="https://api.web3forms.com/submit" method="POST">
+              <input type="hidden" name="access_key" value="61685abe-9021-47f2-9043-6e03c34c4690">
               <div class="form-group">
                 <input type="text" placeholder="Your Name" required>
               </div>
@@ -292,6 +293,7 @@
               <div class="form-group">
                 <textarea placeholder="Your Message" rows="4" required></textarea>
               </div>
+              <input type="hidden" name="redirect" value="https://web3forms.com/success">
               <button type="submit" class="submit-btn">Send Message</button>
             </form>
           </div>
